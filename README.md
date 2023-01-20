@@ -1,1 +1,1 @@
-# stratascratch
+# SQL stratascratch taska
