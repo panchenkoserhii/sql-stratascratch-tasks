@@ -18,7 +18,12 @@ forbeswebpage:   varchar
 
 */
 
-SELECT TOP 1 company, continent, max(profits) as max_profits from forbes_global_2010_2014
-group by company, sector, continent
-having sector = 'financials'
-order by max(profits) DESC;
+SELECT TOP 1 company,
+       continent,
+       MAX(profits) AS max_profits
+FROM forbes_global_2010_2014
+GROUP BY company,
+         sector,
+         continent
+HAVING sector = 'financials'
+ORDER BY MAX(profits) DESC
