@@ -1,5 +1,4 @@
 /*
-
 Find the most profitable company from the financial sector. Output the result along with the continent.
 
 Tables:
@@ -15,7 +14,6 @@ profits:         float
 assets:          float
 rank:            int
 forbeswebpage:   varchar
-
 */
 
 SELECT TOP 1 company,
