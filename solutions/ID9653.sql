@@ -15,7 +15,10 @@ device:        varchar
 
 */
 
-select device, event_name, COUNT(1) as count_device from playbook_events
-group by device, event_name
-having device LIKE 'macbook pro'
-order by COUNT(1) DESC
+SELECT device,
+       event_name,
+       COUNT(1) AS count_device
+FROM playbook_events
+GROUP BY device, event_name
+HAVING device LIKE 'macbook pro'
+ORDER BY COUNT(1) DESC
