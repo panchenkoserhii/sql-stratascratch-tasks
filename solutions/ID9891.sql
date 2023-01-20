@@ -23,8 +23,8 @@ SELECT first_name,
        last_name,
        city,
        o.*
-FROM customers as c
-LEFT JOIN orders as o
+FROM customers AS c
+LEFT JOIN orders AS o
 ON c.id = o.cust_id
 ORDER BY first_name,
          order_details
