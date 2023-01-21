@@ -4,14 +4,10 @@ Output all details related to retrieved records.
 
 Tables:
 (lyft_drivers)
-index:
-int
-start_date:
-datetime
-end_date:
-datetime
-yearly_salary:
-int
+index:           int
+start_date:      datetime
+end_date:        datetime
+yearly_salary:   int
 */
 
 SELECT *
