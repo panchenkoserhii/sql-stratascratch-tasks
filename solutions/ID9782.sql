@@ -12,8 +12,9 @@ total_order_cost:   int
 */
 
 SELECT cust_id,
-       SUM(total_order_cost) AS total_revenue from orders
+       SUM(total_order_cost) AS total_revenue
+FROM orders
 WHERE MONTH(order_date) = '03' AND 
       YEAR(order_date) = '2019'
 GROUP BY cust_id
-ORSE BY SUM(total_order_cost) DESC;
+ORDER BY SUM(total_order_cost) DESC;
