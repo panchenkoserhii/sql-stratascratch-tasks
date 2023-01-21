@@ -39,4 +39,4 @@ This repository contains solutions to questions from StrataScratch to show my ab
 
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
-|[ID9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=5)|Airbnb|[The number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=5)|Easy|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID9622.sql)|
+|[ID9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=5)|Airbnb|[The number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID9622.sql)|
