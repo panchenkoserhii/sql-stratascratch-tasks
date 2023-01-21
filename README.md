@@ -2,9 +2,9 @@
 
 This repository contains solutions to questions from StrataScratch to show my ability in tackling SQL technical interviews.
 
-**Difficulty levels**: [Easy](https://github.com/panchenkoserhii/stratascratch/edit/main/README.md?plain=1#L7), Medium, Hard
+**Difficulty levels**: Easy, Medium, Hard
 
-|Easy|14 tasks|
+|Easy|17 tasks|
 |:---:|:---:|
 
 
