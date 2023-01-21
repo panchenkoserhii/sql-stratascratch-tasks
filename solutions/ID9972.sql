@@ -22,4 +22,5 @@ status:             varchar
 SELECT employeename,
        basepay
 FROM sf_public_salaries
-WHERE jobtitle LIKE '%police%' AND jobtitle LIKE '%captain%'
+WHERE jobtitle LIKE '%police%'
+      AND jobtitle LIKE '%captain%'
