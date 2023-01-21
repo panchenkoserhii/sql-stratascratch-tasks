@@ -15,4 +15,4 @@ SELECT nominee,
        COUNT(1) AS count_nominee
 FROM oscar_nominees
 GROUP BY nominee
-HAVING nominee = 'Abigail Breslin';
+HAVING nominee = 'Abigail Breslin'
