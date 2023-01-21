@@ -2,7 +2,10 @@
 
 This repository contains solutions to questions from StrataScratch to show my ability in tackling SQL technical interviews.
 
-Difficulty levels: Easy, Medium, Hard
+**Difficulty levels**: Easy, Medium, Hard
+Easy - 
+Medium - 
+Hard - 
 
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
