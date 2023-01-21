@@ -40,3 +40,4 @@ This repository contains solutions to questions from StrataScratch to show my ab
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
 |[ID9650](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=5)|Spotify|[Find the top 10 ranked songs in 2010](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID9650.sql)|
+|[ID9726](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=5)|City of SF|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID9726.sql)|
