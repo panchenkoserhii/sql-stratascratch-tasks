@@ -1,15 +1,16 @@
-# SQL stratascratch tasks
+# SQL Stratascratch Tasks
 
 This repository contains solutions to questions from StrataScratch to show my ability in tackling SQL technical interviews.
 
-**Difficulty Levels**:
-- Easy (17 tasks)
-- Medium (25 tasks)
-- Hard
+**Completed tasks for different difficulty levels**:
+- Easy - **17**
+- Medium - **25**
+- Hard - **0**
+
+#
 
 |--- Easy ---|
 |:---:|
-
 
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
@@ -31,7 +32,8 @@ This repository contains solutions to questions from StrataScratch to show my ab
 |[ID10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=5)|Microsoft|[Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=5)|Easy|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID10299.sql)|
 |[ID10308](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5)|Dropbox|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5)|Easy|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID10308.sql)|
 
-|Medium|17 tasks|
-|:---:|:---:|
+#
 
+|--- Medium ---|
+|:---:|
 
