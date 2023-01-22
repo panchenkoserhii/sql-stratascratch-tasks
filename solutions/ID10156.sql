@@ -28,4 +28,4 @@ ON h.host_id = u.host_id
 WHERE h.age < 30 AND
       u.unit_type LIKE 'apartment'
 GROUP BY nationality
-ORDER_BY COUNT(DISTINCT unit_id) DESC
+ORDER BY COUNT(DISTINCT unit_id) DESC
