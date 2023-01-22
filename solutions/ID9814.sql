@@ -10,9 +10,9 @@ contents:   varchar
 */
 
 SELECT 'bear' word,
-        SUM(CASE WHEN contents LIKE '%[^A-Za-z]bear[^A-Za-z]%' THEN 1 ELSE 0 END) nentry
+        SUM(CASE WHEN contents LIKE '%[^A-Za-z][Bb]ear[^A-Za-z]%' THEN 1 ELSE 0 END) nentry
 FROM google_file_store
 UNION ALL
 SELECT 'bull' word,
-        SUM(CASE WHEN contents LIKE '%[^A-Za-z]bull[^A-Za-z]%' THEN 1 ELSE 0 END) nentry
+        SUM(CASE WHEN contents LIKE '%[^A-Za-z][Bb]ull[^A-Za-z]%' THEN 1 ELSE 0 END) nentry
 FROM google_file_store
