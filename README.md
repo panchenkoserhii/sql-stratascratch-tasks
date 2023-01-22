@@ -1,6 +1,6 @@
 # SQL Stratascratch Tasks
 
-This repository contains solutions to questions from StrataScratch to show my ability in tackling SQL technical interviews.
+This repository contains solutions to all free questions from StrataScratch.
 
 **Completed tasks for different difficulty levels**:
 - Easy - **17**
