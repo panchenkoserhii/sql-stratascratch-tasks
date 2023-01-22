@@ -59,3 +59,9 @@ This repository contains solutions to questions from StrataScratch to show my ab
 |[ID10159](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=5)|Airbnb|[Ranking Most Active Guests](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID10159.sql)|
 |[ID10353](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=5)|DoorDash|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID10353.sql)|
 |[ID10354](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=5)|Forbes|[Most Profitable Companies](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID10354.sql)|
+
+|--- Hard ---|
+|:---:|
+
+| # | Company | Title | Difficulty | Solution |
+| :---: | :---: | :--- | :---- | :----: |
