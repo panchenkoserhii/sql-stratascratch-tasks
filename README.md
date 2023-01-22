@@ -65,4 +65,4 @@ This repository contains solutions to questions from StrataScratch to show my ab
 
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
-|[ID514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Amazon|[Marketing Campaign Success](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Medium|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID514.sql)|
+|[ID514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Amazon|[Marketing Campaign Success](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Hard|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID514.sql)|
