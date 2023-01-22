@@ -45,7 +45,7 @@ WITH CTE as (SELECT DISTINCT (CASE
                               END) host_pop_rating,
                     price,
                     CONCAT(price, room_type, host_since, zipcode, number_of_reviews) host_id
-FROM airbnb_host_searches)
+             FROM airbnb_host_searches)
 
 SELECT host_pop_rating,
        MIN(price) min_price,
