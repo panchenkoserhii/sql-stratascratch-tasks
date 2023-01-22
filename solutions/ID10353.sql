@@ -16,7 +16,7 @@ worker_title:    varchar
 affected_from:   datetime
 */
 
-SELEST worker_title
+SELECT worker_title
 FROM worker w
 LEFT JOIN title t
 ON w.worker_id = t.worker_ref_id
