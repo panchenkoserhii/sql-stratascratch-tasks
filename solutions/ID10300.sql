@@ -21,12 +21,12 @@ downloads:         int
 WITH cte AS (SELECT d.date,
                     SUM(CASE WHEN a.paying_customer = 'yes' THEN d.downloads ELSE 0 END) paying,
                     SUM(CASE WHEN a.paying_customer = 'no' THEN d.downloads ELSE 0 END) non_paying
-FROM ms_user_dimension u
-LEFT JOIN ms_acc_dimension a
-ON u.acc_id = a.acc_id
-LEFT JOIN ms_download_facts d
-ON u.user_id = d.user_id
-GROUP BY d.date)
+             FROM ms_user_dimension u
+             LEFT JOIN ms_acc_dimension a
+             ON u.acc_id = a.acc_id
+             LEFT JOIN ms_download_facts d
+             ON u.user_id = d.user_id
+             GROUP BY d.date)
 
 SELECT * FROM cte
 WHERE non_paying > paying
