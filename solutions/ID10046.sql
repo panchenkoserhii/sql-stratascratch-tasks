@@ -25,7 +25,7 @@ FROM yelp_business
 WHERE stars=5
 GROUP BY state)
 
-select * from cte
+SELECT * FROM cte
 WHERE rank <=5
 ORDER BY n_businesses DESC,
          state
