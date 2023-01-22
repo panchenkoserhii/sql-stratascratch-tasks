@@ -5,7 +5,7 @@ This repository contains solutions to questions from StrataScratch to show my ab
 **Completed tasks for different difficulty levels**:
 - Easy - **17**
 - Medium - **20**
-- Hard - **0**
+- Hard - **7**
 
 #
 
