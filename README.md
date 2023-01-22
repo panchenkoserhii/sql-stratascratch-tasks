@@ -1,6 +1,6 @@
 # SQL Stratascratch Tasks
 
-This repository contains solutions to all free questions from StrataScratch.
+This repository contains my solutions to all free questions from StrataScratch.
 
 **Completed tasks for different difficulty levels**:
 - Easy - **17**
@@ -66,3 +66,4 @@ This repository contains solutions to all free questions from StrataScratch.
 | # | Company | Title | Difficulty | Solution |
 | :---: | :---: | :--- | :---- | :----: |
 |[ID514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Amazon|[Marketing Campaign Success](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=5)|Hard|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID514.sql)|
+|[ID9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=5)|Airbnb|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=55)|Hard|[Link](https://github.com/panchenkoserhii/stratascratch/blob/main/solutions/ID59632.sql)|
